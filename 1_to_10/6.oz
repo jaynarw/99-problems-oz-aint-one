@@ -1,6 +1,13 @@
 % Find out whether a list is a palindrome. A palindrome can be read forward or backward;
 declare
+
+%% Using builtin
   fun {Palindrome Xs}
+    {Reverse Xs} == Xs
+  end
+
+%% From scratch
+  fun {Palindrome2 Xs}
     local Aux Aux2 in
       fun {Aux XsParsed Curr}
         if Curr == nil then
