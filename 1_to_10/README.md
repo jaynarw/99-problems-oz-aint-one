@@ -5,3 +5,4 @@
 3. Find the K'th element of a list. The first element in the list is number 1. [Solution](3.oz)
 4. Find the number of elements of a list. [Solution](4.oz)
 4. Reverse a list. [Solution](5.oz)
+4. Find out whether a list is a palindrome. A palindrome can be read forward or backward; [Solution](6.oz)
