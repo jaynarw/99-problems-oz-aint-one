@@ -84,7 +84,7 @@ True
 ```
 [Solution](6.oz)
    
-## (**) Flatten a nested list structure.
+## (**) Flatten a nested list structure. :white_check_mark:
    
 Transform a list, possibly holding lists as elements into a `flat' list by replacing each list with its elements (recursively).
    
@@ -109,7 +109,7 @@ We have to define a new data type, because lists in Haskell are homogeneous.
 λ> flatten (List [])
 []
 ```
-
+[Solution](7.oz)
    
 ## (**) Eliminate consecutive duplicates of list elements.
    
