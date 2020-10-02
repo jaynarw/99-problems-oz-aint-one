@@ -127,6 +127,8 @@ Example in Haskell:
 λ> compress "aaaabccaadeeee"
 "abcade"
 ```
+
+[Solution](8.oz)
 ## (**) Pack consecutive duplicates of list elements into sublists.
 If a list contains repeated elements they should be placed in separate sublists.
    
