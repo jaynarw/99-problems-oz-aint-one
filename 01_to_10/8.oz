@@ -15,6 +15,5 @@ declare
       end
       {Aux Xs nil}
     end
-    
   end
   {Browse {Compress "aaaabccaadeeee"}}
