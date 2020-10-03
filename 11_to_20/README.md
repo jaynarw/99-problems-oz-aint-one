@@ -61,7 +61,7 @@ Example in Haskell:
 λ> dupli [1, 2, 3]
 [1,1,2,2,3,3]
 ```
-
+[Solution](14.oz)
    
 ## (**) Replicate the elements of a list a given number of times.
    
