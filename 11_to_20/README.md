@@ -77,7 +77,7 @@ Example in Haskell:
 λ> repli "abc" 3
 "aaabbbccc"
 ```
-
+[Solution](15.oz)
    
 ## (**) Drop every N'th element from a list.
    
@@ -93,7 +93,7 @@ Example in Haskell:
 λ> dropEvery "abcdefghik" 3
 "abdeghk"
 ```
-        
+[Solution](16.oz)
    
 ## (*) Split a list into two parts; the length of the first part is given.
    
